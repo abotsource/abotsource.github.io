@@ -1,5 +1,8 @@
 # abotsource.github.io
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)](https://stackoverflow.com/users/6558042/omid-nikrah)  
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
 
 //SPDX-License-Identifier: MIT
