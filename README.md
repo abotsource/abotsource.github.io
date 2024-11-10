@@ -1,5 +1,5 @@
 <h2 align="center">Hi there, I'm Jacob! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
-<h4 align="center">The source code of my bot, which I talk about in the video</h4>
+<h4 align="center">The source code of my bot, which I talk about in the video:</h4>
 <p align="right">Copy the code below 👇</p>
 
 ```
